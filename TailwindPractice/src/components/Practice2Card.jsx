@@ -12,6 +12,8 @@ function Practice2Card() {
             <p className=' text-slate-500'>By Vishal Jawadwar</p>
         </div>
       </div>
+      <button className='bg-sky-400  rounded-lg mt-2 text-white text-base p-2 hover:bg-slate-300 hover:text-black'>Buy Now</button>
+      <div className='text-center text-slate-500 mt-2 sm:text-red-500 lg:text-green-500'>Vishal Sanjayrao Jawadwar</div>
     </div>
   )
 }
